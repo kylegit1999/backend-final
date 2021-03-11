@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/user/pythonProject/final to intership/venv/bin/python3" "$0" "$@"
+'''exec' "/home/user/Music/final to intership.py/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
